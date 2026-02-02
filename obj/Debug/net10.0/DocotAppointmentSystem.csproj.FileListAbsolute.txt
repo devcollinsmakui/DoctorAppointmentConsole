@@ -1,0 +1,14 @@
+F:\Learning\2026\February\DocotAppointmentSystem\bin\Debug\net10.0\DocotAppointmentSystem.exe
+F:\Learning\2026\February\DocotAppointmentSystem\bin\Debug\net10.0\DocotAppointmentSystem.deps.json
+F:\Learning\2026\February\DocotAppointmentSystem\bin\Debug\net10.0\DocotAppointmentSystem.runtimeconfig.json
+F:\Learning\2026\February\DocotAppointmentSystem\bin\Debug\net10.0\DocotAppointmentSystem.dll
+F:\Learning\2026\February\DocotAppointmentSystem\bin\Debug\net10.0\DocotAppointmentSystem.pdb
+F:\Learning\2026\February\DocotAppointmentSystem\obj\Debug\net10.0\DocotAppointmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\2026\February\DocotAppointmentSystem\obj\Debug\net10.0\DocotAppointmentSystem.AssemblyInfoInputs.cache
+F:\Learning\2026\February\DocotAppointmentSystem\obj\Debug\net10.0\DocotAppointmentSystem.AssemblyInfo.cs
+F:\Learning\2026\February\DocotAppointmentSystem\obj\Debug\net10.0\DocotAppointmentSystem.csproj.CoreCompileInputs.cache
+F:\Learning\2026\February\DocotAppointmentSystem\obj\Debug\net10.0\DocotAppointmentSystem.dll
+F:\Learning\2026\February\DocotAppointmentSystem\obj\Debug\net10.0\refint\DocotAppointmentSystem.dll
+F:\Learning\2026\February\DocotAppointmentSystem\obj\Debug\net10.0\DocotAppointmentSystem.pdb
+F:\Learning\2026\February\DocotAppointmentSystem\obj\Debug\net10.0\DocotAppointmentSystem.genruntimeconfig.cache
+F:\Learning\2026\February\DocotAppointmentSystem\obj\Debug\net10.0\ref\DocotAppointmentSystem.dll

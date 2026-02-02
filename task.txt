@@ -1,0 +1,49 @@
+Show the following options to the user,
+
+Main Menu
+
+Login
+Register
+If the user chooses option b, get the following details and create an account and him to the Patient list.
+
+PatientID (should be unique and created automatically)
+Name
+Password
+Age
+Gender
+If the user chooses option a,
+
+Get user name and password and validate the credential. If the validation is successful, show the following option. If it is not successful, print “Sorry, your record is invalid. Please register your profile and log in again.” And go to the main menu.
+
+Patient Menu
+
+Book Appointment
+View Appointment details
+Edit my profile
+Exit
+If the user chooses option a, get the Department that patient wants to have an appointment by displaying all the departments like below,
+
+Select the department from the below List:
+
+Anaesthesiology
+Cardiology
+Diabetology
+Neonatology
+Nephrology
+Based on the department selected by the user, check the availability of doctor for that department from today and display the message like below,
+
+“Appointment is confirmed for the date – 8/3/2012. To book press “Y”, to cancel press “N”.
+
+If the user presses “Y”, add a new appointment to Appointments List. Otherwise, go to Patient menu.
+
+If the user chooses option b, you should display all the appointment details of the patient.
+
+If the user chooses option c, provide an option to edit the following details
+
+Name
+Password
+Age
+Gender
+Note:
+
+One doctor can handle only two appointments in a day.

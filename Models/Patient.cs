@@ -5,7 +5,7 @@ namespace DocotAppointmentSystem.Models;
 
 public class Patient
 {
-    private int id = 0;
+    private static int id = 0;
     public int PatientID {get;set;}
     public required string Password {get; set;}
     public required string Name {get;set;}
@@ -14,6 +14,6 @@ public class Patient
 
     public Patient()
     {
-        PatientID = id++;
+        PatientID = ++id;
     }
 }

@@ -17,9 +17,9 @@ public class AppointmentManager
     };
     public static List<Patient> Patients = new()
     {
-        new Patient{ PatientID =1, Password = "welcome", Name = "Robert", Age = 40, Gender = Gender.Male},
-        new Patient{ PatientID =2, Password = "welcome", Name = "Laura", Age = 36, Gender = Gender.Female},
-        new Patient{ PatientID =3, Password = "welcome", Name = "Anne", Age = 42, Gender = Gender.Female},
+        new Patient{ Password = "welcome", Name = "Robert", Age = 40, Gender = Gender.Male},
+        new Patient{ Password = "welcome", Name = "Laura", Age = 36, Gender = Gender.Female},
+        new Patient{ Password = "welcome", Name = "Anne", Age = 42, Gender = Gender.Female},
     };
     public static List<Appointment> Appointments = new()
     {

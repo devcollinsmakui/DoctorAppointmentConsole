@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Learning\\2026\\February\\DocotAppointmentSystem\\DocotAppointmentSystem.csproj": {}
+    "F:\\2026\\FEBRUARY\\LEARNING\\DocotAppointmentSystem\\DocotAppointmentSystem.csproj": {}
   },
   "projects": {
-    "F:\\Learning\\2026\\February\\DocotAppointmentSystem\\DocotAppointmentSystem.csproj": {
+    "F:\\2026\\FEBRUARY\\LEARNING\\DocotAppointmentSystem\\DocotAppointmentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Learning\\2026\\February\\DocotAppointmentSystem\\DocotAppointmentSystem.csproj",
+        "projectUniqueName": "F:\\2026\\FEBRUARY\\LEARNING\\DocotAppointmentSystem\\DocotAppointmentSystem.csproj",
         "projectName": "DocotAppointmentSystem",
-        "projectPath": "F:\\Learning\\2026\\February\\DocotAppointmentSystem\\DocotAppointmentSystem.csproj",
+        "projectPath": "F:\\2026\\FEBRUARY\\LEARNING\\DocotAppointmentSystem\\DocotAppointmentSystem.csproj",
         "packagesPath": "C:\\Users\\CollinsMakui\\.nuget\\packages\\",
-        "outputPath": "F:\\Learning\\2026\\February\\DocotAppointmentSystem\\obj\\",
+        "outputPath": "F:\\2026\\FEBRUARY\\LEARNING\\DocotAppointmentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CollinsMakui\\AppData\\Roaming\\NuGet\\NuGet.Config"

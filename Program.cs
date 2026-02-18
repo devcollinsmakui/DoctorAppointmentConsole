@@ -17,7 +17,7 @@ class Program
             switch (choice)
             {
                 case "1":
-                    //
+                    AuthentificationManager.Login();
                     break;
                 case "2":
                     AuthentificationManager.RegisterPatient();

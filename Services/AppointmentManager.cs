@@ -23,9 +23,9 @@ public class AppointmentManager
     };
     public static List<Appointment> Appointments = new()
     {
-        new Appointment {AppointmentID = 1, PatientID = 1, DoctorID = 2, Date = new DateTime(2012/3/8), Problem = "Heart problem"},
-        new Appointment {AppointmentID = 2, PatientID = 1, DoctorID = 5, Date = new DateTime(2012/3/8), Problem = "Spinal cord injury"},
-        new Appointment {AppointmentID = 3, PatientID = 2, DoctorID = 2, Date = new DateTime(2012/3/8), Problem = "Heart attack"},
+        new Appointment { PatientID = 1, DoctorID = 2, Date = new DateTime(2012/3/8), Problem = "Heart problem"},
+        new Appointment { PatientID = 1, DoctorID = 5, Date = new DateTime(2012/3/8), Problem = "Spinal cord injury"},
+        new Appointment { PatientID = 2, DoctorID = 2, Date = new DateTime(2012/3/8), Problem = "Heart attack"},
     };
 
     public void BookAppointment(){}

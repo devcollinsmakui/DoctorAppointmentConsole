@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocotAppointmentSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae53f757fc4fc1d423d7a57540a83294d5b9e8cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13b9f8a8d7d65320aa8b2edf803d424274a326bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocotAppointmentSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocotAppointmentSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

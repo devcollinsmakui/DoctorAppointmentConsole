@@ -10,7 +10,7 @@ class Program
     {
         do
         {
-            Console.WriteLine("Main Menu\n 1. Login\n 2. Register\n");
+            Console.WriteLine("Main Menu\n 1. Login\n 2. Register\n 3. Exit\n");
             Console.WriteLine("Choose an option:");
             string choice = Console.ReadLine()!.Trim();
             // bool proceed = true;
@@ -22,6 +22,8 @@ class Program
                 case "2":
                     AuthentificationManager.RegisterPatient();
                     break;
+                case "3":
+                    return;
                 default:
                     break;
             }

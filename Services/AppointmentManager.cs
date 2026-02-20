@@ -5,7 +5,7 @@ using DocotAppointmentSystem.Models;
 
 namespace DocotAppointmentSystem.Services;
 
-public delegate void EventHandler(string a);
+public delegate void EventHandler();
 public class AppointmentManager
 {
     public static List<Doctor> doctors = new()
@@ -29,11 +29,11 @@ public class AppointmentManager
         new Appointment { PatientID = 2, DoctorID = 2, Date = new DateTime(2012/3/8), Problem = "Heart attack"},
     };
 
-    public event EventHandler BookAppointmentEvent;
+    private static event EventHandler? BookAppointmentEvent;
 
-    public static void OnBookAppointment(string a)
+    static void OnBookAppointment()
     {
-        Console.WriteLine(a);
+        Console.WriteLine("Appointment Added");
     }
     public static void BookAppointment(Patient patient)
     {
@@ -53,7 +53,8 @@ public class AppointmentManager
                 if (userchoice == "Y")
                 {
                     appointments.Add(appointment);
-                    OnBookAppointment("Appoinment added!");
+                    BookAppointmentEvent += new EventHandler(OnBookAppointment);
+                    BookAppointmentEvent.Invoke();
                 }
                 else if (userchoice == "N")
                 {

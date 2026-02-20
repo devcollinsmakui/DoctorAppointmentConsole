@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\2026\\FEBRUARY\\LEARNING\\DocotAppointmentSystem\\DocotAppointmentSystem.csproj",
-      "projectName": "DocotAppointmentSystem",
-      "projectPath": "F:\\2026\\FEBRUARY\\LEARNING\\DocotAppointmentSystem\\DocotAppointmentSystem.csproj",
+      "projectUniqueName": "F:\\2026\\FEBRUARY\\LEARNING\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj",
+      "projectName": "DoctorAppointmentSystem",
+      "projectPath": "F:\\2026\\FEBRUARY\\LEARNING\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj",
       "packagesPath": "C:\\Users\\CollinsMakui\\.nuget\\packages\\",
-      "outputPath": "F:\\2026\\FEBRUARY\\LEARNING\\DocotAppointmentSystem\\obj\\",
+      "outputPath": "F:\\2026\\FEBRUARY\\LEARNING\\DoctorAppointmentSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CollinsMakui\\AppData\\Roaming\\NuGet\\NuGet.Config"
